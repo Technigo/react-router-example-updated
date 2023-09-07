@@ -1,4 +1,4 @@
-# Technigo React Starter App
+# Technigo React Starter App + React Router
 
 This app has been generated using `npm create vite@latest`, then cleaned up a little so we have a project with just the elements we need to get started.
 
